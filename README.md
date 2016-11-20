@@ -1,1 +1,2 @@
 # SecretMessageMaker
+This application enables the user to input a message and encode it with a password. Then after the user sends the message to another user the second user can decode the message with the corret password. If someone who doesn't know the right password and types in the wrong password, the message will not be transferred correctly. This is a basic idea of protecting people's privacy. This work is collaboratively done by Xuzhan Xiang, Xijie Guo, Kuan-Chi Chen, Lu Shao in HackHolyoke.
